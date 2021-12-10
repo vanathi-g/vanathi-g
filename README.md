@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img height="450" src="https://user-images.githubusercontent.com/45899028/145592132-24590f89-aa54-4aa3-9337-4c54d1379674.gif" alt="my banner" />
 <!--
 **vanathi-g/vanathi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanathi-g&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
