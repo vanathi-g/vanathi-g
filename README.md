@@ -1,16 +1,11 @@
-<img height="450" src="https://user-images.githubusercontent.com/45899028/145592132-24590f89-aa54-4aa3-9337-4c54d1379674.gif" alt="my banner" />
-<!--
-**vanathi-g/vanathi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img height="350" src="https://user-images.githubusercontent.com/45899028/145592132-24590f89-aa54-4aa3-9337-4c54d1379674.gif" alt="my banner" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanathi-g&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## Check out my stats!
+<div>
+  <a href="https://github.com/nive927">
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanathi-g&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vanathi-g&layout=compact&langs_count=8&theme=synthwave"/>
+  </a>
+</div>
