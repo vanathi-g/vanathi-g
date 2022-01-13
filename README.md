@@ -23,7 +23,7 @@ I'm a student who really likes to explore different things to do in computer sci
 
 ## Check out my stats!
 <div>
-  <a href="https://github.com/nive927">
+  <a href="https://github.com/vanathi-g">
     <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanathi-g&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vanathi-g&layout=compact&langs_count=8&theme=synthwave"/>
   </a>
