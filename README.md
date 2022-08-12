@@ -1,12 +1,3 @@
-<p align="center">
-<img height="350" src="https://user-images.githubusercontent.com/45899028/145592132-24590f89-aa54-4aa3-9337-4c54d1379674.gif" alt="my banner" />
-</p>
-
-## About me:
-![Views](https://komarev.com/ghpvc/?username=vanathi-g&color=blueviolet&label=Profile+Views)
-<br>
-I'm a student who really likes to explore different things to do in computer science. I checked out a bit of machine learning, a **lot** of web development and now I'm interested in [contributing to open-source projects](https://github.com/HabitRPG/habitica/pull/13655). I'm currently learning Minecraft modding as a hobby. 
-
 ### Contact me -
 <a href="https://www.linkedin.com/in/vanathi-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:gvanathi21@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
